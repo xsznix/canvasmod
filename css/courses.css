@@ -1,0 +1,10 @@
+.canvasmod-old-courses {
+	background: #f4f4f4;
+	font-style: italic;
+	opacity: 0.85;
+}
+
+.canvasmod-old-courses.menu-item-header-container {
+	margin-top: 6px;
+	color: #ccc !important;
+}
